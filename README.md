@@ -61,7 +61,7 @@ The project is split into two specialized modules:
     Bash
     
     ```
-    git clone https://github.com/your-username/rui-data-enricher.git
+    git clone https://github.com/your-username/Python-Excel_data_enrichment-.git
     cd rui-data-enricher
     ```
     
